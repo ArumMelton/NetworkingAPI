@@ -55,10 +55,22 @@
 Express/node js application that allows a user to access and manipulate posts and interact with friends.
 <br/>
 
-<img width="1693" alt="Screen Shot 2022-09-20 at 7 30 10 AM" src="https://user-images.githubusercontent.com/103224098/191248655-f95fa0fc-7c31-4c97-aee8-08cbf9b67f39.png">
 
 
+# Video Walkthroughs
 
+<h1>USER Methods Walkthrough (Include deleted thought along with User)</h1>
+https://user-images.githubusercontent.com/103224098/191250241-dfb7ab7f-9e64-4e98-8d9d-c87f63a4354b.mov
+<br>
+<h1>ADD or DEL Friends Methods Walkthrough</h1>
+https://user-images.githubusercontent.com/103224098/191250516-40125d2b-a7af-4eea-a274-5150d8b95afd.mov
+<br>
+<h1>Thoughts Methods Walkthrough</h1>
+https://user-images.githubusercontent.com/103224098/191250786-2dc01f82-3c20-4693-a0f2-1143b8ba19fb.mov
+<br>
+<h1>Reactions Methods Walkthrough</h1>
+<br>
+https://user-images.githubusercontent.com/103224098/191250856-6bf58073-11ab-422d-aca6-824c4f8840ca.mov
 
 
 
@@ -137,6 +149,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right"><a href="#top">back to top</a></p>
+<img width="1717" alt="Screen Shot 2022-09-20 at 7 29 57 AM" src="https://user-images.githubusercontent.com/103224098/191249206-5d71bc85-4019-42d6-b905-c90f4c125a2d.png">
 
 <!-- CONTACT -->
 ### Contact the Contributors
