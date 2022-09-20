@@ -168,7 +168,7 @@ Don't forget to give the project a star! Thanks again!
 Arum Melton - arumjmelton@gmail.com
 <br/>
 
-[Project Link]([https://github.com/ArumMelton/DaNoteTaker](https://github.com/ArumMelton/NetworkingAPI))
+![Project Link]([https://github.com/ArumMelton/DaNoteTaker](https://github.com/ArumMelton/NetworkingAPI))
 <br/>
 
 <br/>
