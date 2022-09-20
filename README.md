@@ -168,9 +168,9 @@ Don't forget to give the project a star! Thanks again!
 Arum Melton - arumjmelton@gmail.com
 <br/>
 
-[Project Link](https://github.com/ArumMelton/DaNoteTaker)
+[Project Link]([https://github.com/ArumMelton/DaNoteTaker](https://github.com/ArumMelton/NetworkingAPI))
 <br/>
-[Deployed Application](https://danotetaker-app.herokuapp.com/)
+
 <br/>
 <p align="right"><a href="#top">back to top</a></p>
 
